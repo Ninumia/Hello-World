@@ -19,9 +19,9 @@ namespace Летняя_практика_2алг_
             double Ka =Math.Pow(B,a)%p;
             double Kb = Math.Pow(A, b) % p;
             double K =Math.Pow(g,a*b)%p;
-            Console.Write(Ka.ToString() + ";");
-            Console.Write(Kb.ToString() + ";");
-            Console.Write(K.ToString()+".");
+            Console.WriteLine("Ka=" + Ka.ToString());
+            Console.WriteLine("Kb=" + Kb.ToString());
+            Console.WriteLine("K=" + K.ToString());
             Console.ReadKey();
         }
     }
