@@ -43,7 +43,7 @@ namespace Летняя_практика
             double E = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите M");
             double M = double.Parse(Console.ReadLine());
-            for (double D=0;D<=100;D++) 
+            for (double D=0;D<=10000;D++) 
             {
                 double d=(D * E) % F;
                 if (d == 1)
