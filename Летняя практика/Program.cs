@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Летняя_практика
 {
@@ -43,19 +43,26 @@ namespace Летняя_практика
             double E = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите M");
             double M = double.Parse(Console.ReadLine());
-            for (double D=0;D<=10000;D++) 
+            double u = 0;
+            double D = 0;
+            while (u<5)
             {
-                double d=(D * E) % F;
-                if (d == 1)
+                if ((D * E) % F == 1)
                 {
+                    u++;
                     Console.WriteLine("D=" + D.ToString());
-                    double C = Math.Pow(M, E) % n;
-                    Console.WriteLine("C=" + C.ToString());
-                    double m = Math.Pow(C, D) % n;
-                    Console.WriteLine("M'=" + m.ToString());
-                    break;
+                    
+                    D++;
+
                 }
-            } 
+                else D++;
+            }
+            Console.WriteLine("Введите D");
+            double d = double.Parse(Console.ReadLine());
+            double C = Math.Pow(M, E) % n;
+            Console.WriteLine("C=" + C.ToString());
+            double m = Math.Pow(C, d) % n;
+            Console.WriteLine("M'=" + m.ToString());
             Console.ReadKey();
         }
         private static bool isSimple(int N)
