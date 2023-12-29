@@ -1,0 +1,42 @@
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe.config
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.pdb
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\Guna.UI2.dll
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\MaterialSkin.dll
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.Design.dll
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.dll
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.MainForm.resources
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.Properties.Resources.resources
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.GenerateResource.cache
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.CoreCompileInputs.cache
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.CopyComplete
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.exe
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.pdb
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.OwnerForm.resources
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\Police.mdf
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\bin\Debug\Police_log.ldf
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.CarsForm.resources
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.AssemblyReference.cache
+C:\Users\T1000\Desktop\Новые проекты на C#\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.PenaltiesForm.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\Police.mdf
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\Police_log.ldf
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe.config
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.pdb
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\Guna.UI2.dll
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\MaterialSkin.dll
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.dll
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.AssemblyReference.cache
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.CarsForm.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.MainForm.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.OwnerForm.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.PenaltiesForm.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.Properties.Resources.resources
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.GenerateResource.cache
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.CoreCompileInputs.cache
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.CopyComplete
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.exe
+C:\Users\Nefli\Desktop\ГИБДД\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.pdb
